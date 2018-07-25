@@ -6,7 +6,6 @@ gem 'rake'
 gem 'thin'
 gem 'shotgun'
 gem 'require_all'
-gem  'public_suffix-3.0.1'
 
 group :test, :development do
   gem 'rspec'
